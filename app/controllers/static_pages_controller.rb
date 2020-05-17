@@ -5,4 +5,9 @@ class StaticPagesController < ApplicationController
 
   def help
   end
+  
+  def about
+  end
+    # => app/views/statics_viwes
+
 end
