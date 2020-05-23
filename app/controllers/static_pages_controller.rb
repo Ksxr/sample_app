@@ -9,5 +9,7 @@ class StaticPagesController < ApplicationController
   def about
   end
     # => app/views/statics_viwes
+  def contact
+  end
 
 end
